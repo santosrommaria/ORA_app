@@ -1,0 +1,26 @@
+{
+    "id": "415FA039",
+    "path": "~/08Desarrollo/shiny/ora_app/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1758546103595.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "262,0",
+        "scrollLine": "235"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1758546157,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1758546157254,
+    "read_only": false,
+    "read_only_alternatives": []
+}
